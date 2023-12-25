@@ -1,7 +1,7 @@
 
 ![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
 
-<h1 align="center">Hi 👋, I'm Nur Aditya Rizali</h1>
+<h1 align="center">Hi, I'm Nur Aditya Rizali</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
