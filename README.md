@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuradityarzl&label=Profile%20views&color=0e75b6&style=flat" alt="nuradityarzl" /> </p>
 
-- 🔭 I’m currently working on **Internship Rumah Kepemimpinan**
+- 🔭 I’m currently working on **PT. Techno Consult Indonesia as Assistant of Data Analyst**
 
 - 🌱 I’m currently learning **Project Management**
 
